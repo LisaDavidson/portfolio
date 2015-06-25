@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta name="keywords" content="web designer,web developer,web designer west London,freelance web designer,freelance web developer">
+<title>LJD Web Design - Portfolio</title>
+<link rel="stylesheet" href="assets/css/maincss.css">
+</head>
+
+<body>
+
+<header>
+<nav>
+  <ul>
+    <li><a href="index.html#aportfolio">Portfolio</a></li>
+    <li><a href="index.html#aabout">About</a></li>
+    <li><a href="index.html#acontact">Contact</a></li>
+    <li><a href="http://www.ljdwebdesign.co.uk/blog/">Blog</a></li>
+  </ul>
+</nav>
+<div class="clearFix"></div>
+</header>
+
+<main class="portfoliopages">
+
+	<h3>Portfolio - SSMCC</h3>
+    
+    <div class="wrapper">
+    	<div id="dpbanner">
+    	<img class="responsive" src="assets/images/ssmccport.png" alt="SSMCC">
+    	</div><!--end dpbanner-->
+        
+        <div class="brieftext">
+        <h4>The Brief</h4>
+        <p>A motorcycle club with a training scheme to promote needed a new website that would cater for members and people looking for bike training.  They also needed to be able to update it themselves on a regular basis.</p>
+        <br>
+        <div class="line"></div>
+        <br>
+        <h4>The Process</h4>
+        <p>Aside from the existing club logo and colour schemes, this was a blank page.  I decided to use WordPress for this site to enable the client to have the content management system available.  I took a responsive theme and created a child theme which I then customised to a certain extent.  I used various plugins for items such as the gallery, the contact forms and the slider.  I protected the members only pages with a password and set up a shared calendar so that the club could inform each other of events coming up.</p>
+        <br>
+        <div class="line"></div>
+        <br>
+        <h4>The Outcome</h4>
+        <p>This is a fully responsive and scalable site which the club members are now maintaining themselves.  As it's a new venture for them, periodically changes need to be made by me but no website is ever really finished so I anticipate we will be tweaking it for quite some time!</p>
+        </div><!--end brieftext-->
+        <div class="portfolioimages">
+        <div class="left">
+        <img class="responsive" src="assets/images/ssmccport1.png" alt="SSMCC">
+        <p>The 'Learn to Ride' page is fully maintained by the club themselves.</p>
+        </div><!--end left-->
+        <div class="right">
+        <img class="responsive" src="assets/images/ssmccport2.png" alt="SSMCC">
+        <p>The Gallery page is responsive and easily updated by the club themselves.</p>
+        </div><!--end right-->
+        </div><!--end portfolioimages-->
+        <div class="clearFix"></div>
+        <div id="portfoliolinks">
+        <div class="left">
+        <h5 class="centeredtext"><a href="http://www.ssmcc.co.uk" target="_blank">Click here to visit this site...</a></h5>
+        </div><!--left-->
+        <div class="right">
+        	<div class="left">
+            <h5 class="centeredtext"><a href="index.html#portfolio">...Back home</a></h5>
+            </div><!--left-->
+        	<div class="right">
+         <h5 class="centeredtext"><a href="portfoliodavepovey.html">First project...</a></h5>
+         </div><!--right-->
+        </div><!--right-->
+        </div><!--end portfoliolinks-->
+         <div class="clearFix"></div>
+    </div><!--end wrapper-->
+
+</main>
+
+
+<div class="line"></div>
+<footer>
+	 <div class="wrapper">
+      
+     <div id="facebooklogo">
+      <a href="https://www.facebook.com/LJDWebDesign?ref=hl" target="new"><img class="responsive" src="assets/images/FB_FindUsOnFacebook-114.png" alt="facebook"></a>
+      </div><!-- end facebooklogo-->
+      
+      <div id="bottomlinks">
+      <p><a href="index.html#portfolio">Portfolio</a> | <a href="index.html#about" >About</a> | <a href="http://www.ljdwebdesign.co.uk/blog/">Blog</a></p>
+      </div><!--end bottomlinks-->
+      
+     <div class="clearFix"></div>
+     
+          
+          
+         <div id="copyright">
+         <br>
+            <p>&copy;&nbsp;LJD Web Design 2015 - All Rights Reserved</p>
+          </div><!--copyright-->
+        </div><!--end wrapper--> 
+</footer>
+
+</body>
+</html>
