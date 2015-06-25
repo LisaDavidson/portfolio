@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta name="keywords" content="web designer,web developer,web designer west London,freelance web designer,freelance web developer">
+<title>LJD Web Design - Portfolio</title>
+<link rel="stylesheet" href="assets/css/maincss.css">
+</head>
+
+<body>
+
+<header>
+<nav>
+  <ul>
+    <li><a href="index.html#aportfolio">Portfolio</a></li>
+    <li><a href="index.html#aabout">About</a></li>
+    <li><a href="index.html#acontact">Contact</a></li>
+    <li><a href="http://www.ljdwebdesign.co.uk/blog/">Blog</a></li>
+  </ul>
+</nav>
+<div class="clearFix"></div>
+</header>
+
+<main class="portfoliopages">
+
+	<h3>Portfolio - Jayne Storer Acupuncture</h3>
+    
+    <div class="wrapper">
+    	<div id="dpbanner">
+    	<img class="responsive" src="assets/images/jsportpage.png" alt="Jayne Storer Acupuncture">
+    	</div><!--end dpbanner-->
+        
+        <div class="brieftext">
+        <h4>The Brief</h4>
+        <p>This was my second project and was a redesign of an existing site which by my clients own admission was not a very attractive home made site.  We needed to make it aesthetically pleasing whilst maintaining all of the information that was already there.</p>
+        <br>
+        <div class="line"></div>
+        <br>
+        <h4>The Process</h4>
+        <p>I sent the client a couple of pictures of a mockup with different colour schemes and we settled on a green theme.  However, my clients logo was a deep red colour and this led to the red accents which has turned it into a really bright and attractive looking site.  I was able to use some jQuerey plugins in order to find ways to display a large amount of text in a more interesting way.</p>
+        <br>
+        <div class="line"></div>
+        <br>
+        <h4>The Outcome</h4>
+        <p>I really like the bright and vibrant look of this site. Again, it is not responsive at the moment but that is something that we will look address later this year.</p>
+        </div><!--end brieftext-->
+        <div class="portfolioimages">
+        <div class="left">
+        <img class="responsive" src="assets/images/jsportpage1.png" alt="david povey photography">
+        <p>The testimonials page uses call-outs to break up the large amount of text.</p>
+        </div><!--end left-->
+        <div class="right">
+        <img class="responsive" src="assets/images/jsportpage2.png" alt="david povey photography">
+        <p>Again the FAQ page contains a lot of vital text so I used a jQuerey plugin in order to collapse large sections of text.</p>
+        </div><!--end right-->
+        </div><!--end portfolioimages-->
+        <div class="clearFix"></div>
+        <div id="portfoliolinks">
+        <div class="left">
+        <h5 class="centeredtext"><a href="http://www.jstoreracupuncture.com/index.html" target="_blank">Click here to visit this site...</a></h5>
+        </div><!--left-->
+        <div class="right">
+        	<div class="left">
+            <h5 class="centeredtext"><a href="index.html#portfolio">...Back home</a></h5>
+            </div><!--left-->
+        	<div class="right">
+         <h5 class="centeredtext"><a href="portfoliosynergraphics.html">Next project...</a></h5>
+         </div><!--right-->
+        </div><!--right-->
+        </div><!--end portfoliolinks-->
+         <div class="clearFix"></div>
+    </div><!--end wrapper-->
+
+</main>
+
+
+<div class="line"></div>
+<footer>
+	 <div class="wrapper">
+      
+     <div id="facebooklogo">
+      <a href="https://www.facebook.com/LJDWebDesign?ref=hl" target="new"><img class="responsive" src="assets/images/FB_FindUsOnFacebook-114.png" alt="facebook"></a>
+      </div><!-- end facebooklogo-->
+      
+      <div id="bottomlinks">
+      <p><a href="index.html#portfolio">Portfolio</a> | <a href="index.html#about" >About</a> | <a href="http://www.ljdwebdesign.co.uk/blog/">Blog</a></p>
+      </div><!--end bottomlinks-->
+      
+     <div class="clearFix"></div>
+     
+          
+          
+         <div id="copyright">
+         <br>
+            <p>&copy;&nbsp;LJD Web Design 2015 - All Rights Reserved</p>
+          </div><!--copyright-->
+        </div><!--end wrapper--> 
+</footer>
+
+</body>
+</html>
