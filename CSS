@@ -173,7 +173,7 @@ nav ul{
 	height:auto;
 }
 
-nav ul li {
+nav ul li a{
 	float:none;
 	margin:auto;
 	width:100%;
